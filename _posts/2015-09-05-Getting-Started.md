@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Getting Started
+published: true
 ---
 
-Test test
+
+Test 2
